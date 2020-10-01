@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Zagadka\Zagadka\bin\Debug\netcoreapp3.1\Zagadka.exe
+C:\Users\admin\source\repos\Zagadka\Zagadka\bin\Debug\netcoreapp3.1\Zagadka.deps.json
+C:\Users\admin\source\repos\Zagadka\Zagadka\bin\Debug\netcoreapp3.1\Zagadka.runtimeconfig.json
+C:\Users\admin\source\repos\Zagadka\Zagadka\bin\Debug\netcoreapp3.1\Zagadka.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Zagadka\Zagadka\bin\Debug\netcoreapp3.1\Zagadka.dll
+C:\Users\admin\source\repos\Zagadka\Zagadka\bin\Debug\netcoreapp3.1\Zagadka.pdb
+C:\Users\admin\source\repos\Zagadka\Zagadka\obj\Debug\netcoreapp3.1\Zagadka.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Zagadka\Zagadka\obj\Debug\netcoreapp3.1\Zagadka.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Zagadka\Zagadka\obj\Debug\netcoreapp3.1\Zagadka.AssemblyInfo.cs
+C:\Users\admin\source\repos\Zagadka\Zagadka\obj\Debug\netcoreapp3.1\Zagadka.dll
+C:\Users\admin\source\repos\Zagadka\Zagadka\obj\Debug\netcoreapp3.1\Zagadka.pdb
